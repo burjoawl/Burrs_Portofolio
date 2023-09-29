@@ -1,8 +1,9 @@
 # Assignments
 
 This is my assignment during bootcamp, mostly using Indonesian. <br>
-Sort by lastest assignments. <br>
-I know that my work is still far from being successful, but this also describes the journey in my data scientist.
+I know that my work is still far from being successful, but this also describes the journey in my data scientist. <br>
+
+Sort by latest assignments. 
 
 - [Credit Card Information](https://github.com/burjoawl/Burrs_Portofolio/tree/main/Assignments/Credit%20Card%20Information)
     + Tools: BigQuery, Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn.
