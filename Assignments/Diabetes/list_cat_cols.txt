@@ -1,0 +1,1 @@
+["age", "gender", "family_diabetes", "high_blood_pressure", "physically_active", "smoking", "alcohol", "regular_medicine", "junk_food", "stress_level", "blood_pressure_level", "gestation_diabetes", "urination", "kategori"]
